@@ -57,15 +57,15 @@ Android
   - toppings (chip de chocolate, nutella, flips)
   - tamaño de vaso (por onzas "con o sin galleta")
 - Carrito de compras funcional con opcion de modificar cantidades
-- Confirmación de pedido con resumen detallado en laplataforma.
+- Confirmación de pedido con resumen detallado en la plataforma.
+- Servicio a Domicilio.
 - Panel básico de administrador para gestionar productos.
 
 ## Fuera de Alcance (No se implementa aún)
 
 - Pagos en línea integrados.
 - Sistema de fidelización o puntos de recompensa.
-- Geolocalización para domicilios o entregas.
-- Notificacion de entrega de pidido detallado al whatsapp.
+- Notificacion de entrega de pidido detallado al whatsapp e Email.
 - Registro del Uusuario a la App.
 
 ---
