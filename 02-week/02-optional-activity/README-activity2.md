@@ -36,7 +36,7 @@ Columnas configuradas:
 
 - Backlog
 - To Do
-- prosgress
+- progress
 - Done
 
 ---
